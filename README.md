@@ -16,20 +16,15 @@ Make sure you have node.js installed.
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/code-editor-withReact
+ git clone https://github.com/YOUR_GITHUB_UserName/Choice-Picker
  ```
 3. 
  ```
- cd code-editor-withReact
+ cd Choice-Picker
  ```
-4. Install node modules
+4.
  ```
- npm install
- ```
-5. 
- ```
- npm start
- ```
-   
+ code .
+ ```  
 
-## Deployed [here](https://markdown-editor-mukul.netlify.app/)
+## Deployed [here](https://mukulkolpe.github.io/Choice-Picker/)
